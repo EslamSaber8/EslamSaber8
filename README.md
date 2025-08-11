@@ -15,13 +15,13 @@
 <h3>🚀 About Me</h3> 
 <h4>
 
-I am Eslam Saber, a passionate backend developer specializing in Node.js and modern web technologies.
+Eslam Saber is a backend developer with solid experience in Node.js, Express, and MongoDB. Over the past year, he has been working professionally at MD Soft, where he has developed and maintained APIs, designed database schemas, implemented JWT-based authentication, and integrated file uploads using Multer.
 
-With a strong foundation in computer science and backend architecture, I enjoy building scalable APIs, working with databases, and solving complex challenges. My experience includes designing RESTful and GraphQL APIs, implementing authentication systems, and optimizing server-side logic.
+He has worked extensively with Mongoose for schema definitions and aggregations, applying advanced MongoDB queries to perform calculations, filtering, and grouping of data. His projects often involve form-based systems, where he handles complex requirements like conditional averages, excluding certain data types, and returning structured results for dashboards or Excel exports.
 
-I am committed to clean code, best practices, and continuous learning. I love collaborating with other developers and contributing to open source. When I’m not coding, you can find me exploring new tech trends or refining my problem-solving skills.
+Eslam is detail-oriented in both coding and deployment. He understands server setup, MongoDB replica sets, and environment-based configurations for production and development. He is also comfortable troubleshooting and adapting logic to meet unique business requirements.
 
-Let’s connect and chat about backend engineering, Node.js, and all things tech!
+He has a collaborative approach, works well in team-based environments, and constantly seeks to refine his technical skills while ensuring code is efficient, scalable, and maintainable.
 </h4>
 
 <br/>
