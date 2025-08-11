@@ -8,18 +8,20 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Eslam+Saber;Backend+Node.js+Developer;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=470&height=45&color=38B2AC&vCenter=true&size=22"></a>
-</p>  
+</p> 
 <br/>
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=45% height=95px>
 
 <h3>🚀 About Me</h3> 
 <h4>
 
-I’m Eslam Saber, a backend developer specializing in Node.js, Express, and MongoDB.
-I have hands-on experience designing and building robust APIs, implementing JWT authentication, handling file uploads with Multer, and working with complex MongoDB aggregation pipelines.
+I am Eslam Saber, a passionate backend developer specializing in Node.js and modern web technologies.
 
-My work often involves creating dynamic form-based systems, performing advanced data calculations, and delivering clean, structured outputs for dashboards and reports.
-I’m passionate about writing efficient, maintainable, and scalable code, and I’m comfortable managing both development and production environments, including server configuration and database optimization.
+With a strong foundation in computer science and backend architecture, I enjoy building scalable APIs, working with databases, and solving complex challenges. My experience includes designing RESTful and GraphQL APIs, implementing authentication systems, and optimizing server-side logic.
+
+I am committed to clean code, best practices, and continuous learning. I love collaborating with other developers and contributing to open source. When I’m not coding, you can find me exploring new tech trends or refining my problem-solving skills.
+
+Let’s connect and chat about backend engineering, Node.js, and all things tech!
 </h4>
 
 <br/>
@@ -38,8 +40,8 @@ I’m passionate about writing efficient, maintainable, and scalable code, and I
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;-->
-<!--![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;-->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
