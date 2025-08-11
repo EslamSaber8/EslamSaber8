@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coder GIF" width="380" height="280">
+<img  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coder GIF" width="380" height="280">
 
 <h3 align="center">
   Welcome to Eslam Saber’s profile!
