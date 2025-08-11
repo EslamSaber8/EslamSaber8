@@ -1,8 +1,5 @@
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coder GIF" width="380" height="280">
-<h3 align="center">
-  Welcome to Eslam Saber’s profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">
-</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Eslam+Saber;Backend+Node.js+Developer;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=470&height=45&color=38B2AC&vCenter=true&size=22"></a>
